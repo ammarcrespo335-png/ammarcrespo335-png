@@ -1,60 +1,60 @@
 # Hi there, I'm Ammar Roshdy 👋 🇪🇬
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Backend%20Developer-NestJS%20%E2%80%A2%20Node.js%20%E2%80%A2%20TypeScript-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Backend%20Developer-NestJS%20%E2%80%A2%20Node.js%20%E2%80%A2%20TypeScript-blue?style=flat-square">
 </p>
 
 ### 👨‍💻 About Me
-I am a **Backend Developer** specialized in building **scalable, high-performance RESTful APIs**. My focus is on writing clean, maintainable code using **Clean Architecture** and **Design Patterns** to solve complex real-world problems.
+I am a **Backend Developer** with a focus on building structured and maintainable **RESTful APIs**. I enjoy breaking down business requirements into clean, modular code using **NestJS** and **TypeScript**.
 
-- 🛠️ Currently mastering: **Microservices & System Design**.
-- 🧪 Quality focused: Implementing **Unit Testing** and **API Documentation** as a standard.
+- 🛠️ Currently strengthening my knowledge in: **Software Design Patterns & SQL Optimization**.
+- 🧪 Quality focused: Following **NestJS best practices** and documenting APIs with **Swagger**.
 - ⚡ Fun fact: I spend half my time coding and the other half convincing TypeScript that my code actually works 😄
 
 ---
 
 ### 🚀 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+**Languages & Frameworks:**
+- TypeScript, JavaScript (ES6+)
+- Node.js, NestJS, Express.js
+
+**Databases & Tools:**
+- MongoDB (Mongoose), MySQL
+- Socket.io (Real-time communication)
+- Git & GitHub, Postman, Swagger
 
 ---
 
 ### 🌟 Featured Projects
 
 #### 🛒 [E-Commerce Platform (Backend)](https://github.com/ammarcrespo335-png/E-COMMERCE-PLATFORM)
-*A robust backend built with **NestJS** & **MongoDB**, following a modular architecture.*
-- **Core:** JWT Auth, RBAC, & Coupon System.
-- **Tech:** Stripe Integration, Clean Architecture.
-- **Status:** 📖 Swagger Docs & Unit Tests included.
+*A modular backend system focused on scalability and secure transactions.*
+- **Technical Specs:** Implemented **Dependency Injection** and **Module-based architecture** in NestJS.
+- **Key Features:** Secure Authentication (JWT), Role-Based Access Control (RBAC), and Coupon logic.
+- **Integrations:** Stripe for payments and Mongoose for flexible data modeling.
 
 #### 📱 [Facebook Simulation (Social Media API)](https://github.com/ammarcrespo335-png/facebook-simulation)
-*Real-time social media engine using **Socket.IO** and **Node.js**.*
-- **Features:** Real-time Chat, Friend System, Post Interactions.
-- **Tech:** TypeScript, MongoDB, WebSockets.
+*A real-time API designed to handle social interactions and instant messaging.*
+- **Technical Specs:** Built using **Event-driven communication** with Socket.io.
+- **Key Features:** Real-time chat, Friend request workflow, and nested Comments system.
+- **Data:** Efficiently managing user relations and media metadata in MongoDB.
 
 ---
 
-
-
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ammarcrespo335-png/ammarcrespo335-png/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ammarcrespo335-png&show_icons=true&theme=dracula&hide_border=true" alt="Ammar's Stats" />
 </p>
+
+---
 
 <p align="center">
   <strong>Let's connect! 🤝</strong> <br /> <br />
   <a href="https://www.linkedin.com/in/3mar-roshdy-8ab631314">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-<a href="mailto:ammarcrespo335@gmail.com">
+  <a href="mailto:ammarcrespo335@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
