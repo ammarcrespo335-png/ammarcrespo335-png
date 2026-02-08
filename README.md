@@ -50,7 +50,11 @@ I am a **Backend Developer** specialized in building **scalable, high-performanc
 </p>
 
 <p align="center">
-  Let's connect! 🤝 <br />
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><b>LinkedIn</b></a> • 
-  <a href="mailto:your.email@example.com"><b>Email</b></a>
+  <strong>Let's connect! 🤝</strong> <br /> <br />
+  <a href="https://www.linkedin.com/in/3mar-roshdy-8ab631314">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ammarcrespo335@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
