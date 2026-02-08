@@ -22,7 +22,7 @@ I am a **Backend Developer** with a focus on building structured and maintainabl
 **Databases & Tools:**
 - MongoDB (Mongoose), MySQL
 - Socket.io (Real-time communication)
-- Git & GitHub, Postman, Swagger
+- Git & GitHub, Postman
 
 ---
 
