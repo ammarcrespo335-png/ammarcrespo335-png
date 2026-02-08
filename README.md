@@ -23,8 +23,6 @@ I am a **Backend Developer** specialized in building **scalable, high-performanc
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
@@ -45,14 +43,7 @@ I am a **Backend Developer** specialized in building **scalable, high-performanc
 
 ---
 
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ammarcrespo335-png&show_icons=true&theme=dracula&count_private=true" alt="Ammar's Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ammarcrespo335-png&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
 
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ammarcrespo335-png/ammarcrespo335-png/output/snake.svg" alt="Snake animation" />
